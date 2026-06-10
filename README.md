@@ -32,7 +32,9 @@ Walks through the dataset to understand who churns and why. Key findings:
 - Electronic check payers churn at 45.3%, the highest of any payment method.
 
 ![Churn by Contract](images/Contract_Churn.png)
-*Month-to-month customers churn at more than double the rate of two-year contract holders.*
+*Churn rate drops dramatically with contract length — from 42.7% on 
+month-to-month down to just 2.8% on two-year contracts. Contract type 
+is one of the strongest retention levers in the dataset.*
 
 ![Churn by Tenure Groups](images/Tenure_Group_Churn.png)
 *Churn is front-loaded: the first 12 months are the highest risk window by a wide margin.*
